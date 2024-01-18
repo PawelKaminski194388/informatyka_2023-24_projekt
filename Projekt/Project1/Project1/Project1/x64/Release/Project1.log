@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\ktyra\source\repos\Projekt\Project1\Project1\main.cpp(244,40): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\ktyra\source\repos\Projekt\Project1\Project1\main.cpp(473,18): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\ktyra\source\repos\Projekt\Project1\Project1\main.cpp(647,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  7 of 486 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project1.vcxproj -> C:\Users\ktyra\source\repos\Projekt\Project1\x64\Release\Project1.exe
